@@ -1,6 +1,6 @@
 ## cmdb/运维管理系统
 
-#### 说明:此cmdb 为dmdb demo类源代码，使用ansible、salt做数据收集与统计
+#### 说明:此cmdb 为dmdb demo类源代码，使用ansible、salt做数据收集与统计.（本系统使用的是ansible来做的数据收集）
 ###### 注意事项：客户端如需要通过cmdb系统收集完毕系统并能监控则需要默认python2.7环境之外还需要安装python 3.5环境
 #### 服务器端安装
 
