@@ -99,7 +99,7 @@ CMDB管理系统,基于Ansible最新版开发
 
 ansible管理：
 
-![Image text](IMG/%E7%99%BB%E5%BD%95.png)
+![Image text](IMG/ansible主机管理.png)
 
 ansible主机：
 
