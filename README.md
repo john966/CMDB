@@ -156,4 +156,4 @@ pip3 install psutil
 本项目只是一个demo,请勿直接用于生产环境!
 
 
-Copyright (c) 2018-present, xiao You
+Copyright (c) 2018-present, john966
