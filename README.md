@@ -86,9 +86,29 @@ CMDB管理系统,基于Ansible最新版开发
 
 ## 功能说明
 ```
-1. 服务器资产信息收集
-2. server监控
-3. cmdb API
+以下功能,都是用python来完成的
+
+1.  使用django rest framework开发api
+
+2.  优雅获取本机IP
+
+3.  判断ip地址是否有效
+
+4.  判断ssh端口是否开放
+
+5.  自动使用yum安装软件
+
+6.  自动完成ssh免密码登录
+
+7.  根据数据库记录的变化,自动写入文件/etc/ansible/hosts
+
+8.  使用ansible 2.x API收集客户端硬件信息
+
+9.  根据返回的硬件信息,使用事务写入数据库中
+
+10. 使用psutil模块获取cpu和内存使用情况,并发送给后端API,统一入库.
+
+11. 使用Highcharts插件来展示监控图表,比如: cpu和内存.
 ```
 
 
