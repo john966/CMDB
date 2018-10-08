@@ -105,7 +105,7 @@ ansible管理：
 
 ansible主机：
 
-![Image text](IMG/%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C.png)
+![Image text](IMG/ansible%E4%B8%BB%E6%9C%BA%E7%AE%A1%E7%90%86.png)
 
 主机详情：
 
