@@ -109,7 +109,7 @@ ansible主机：
 
 主机详情：
 
-![Image text](IMG/%E8%81%8A%E5%A4%A9.png)
+![Image text](IMG/主机详情.png)
 
 
 ## 运行方式
