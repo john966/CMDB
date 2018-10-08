@@ -114,7 +114,7 @@ ansible主机：
 ###ansible主控端
 ```
 首先需要编译安装python3,请参考链接:
-http://www.py3study.com/Article/details/id/320.html
+
 做到显示版本为止,添加软连接
 ln -s /usr/local/python3/bin/python3.6 /usr/bin/python3
 ln -s /usr/local/python3/bin/pip3.6 /usr/bin/pip3
