@@ -97,19 +97,19 @@ CMDB管理系统,基于Ansible最新版开发
 ## 效果
 首页：
 
-![Image text](https://github.com/987334176/Autocmdb/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)
+![Image text](IMG/01.png)
 
 ansible管理：
 
-![Image text](https://github.com/987334176/Autocmdb/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%99%BB%E5%BD%95.png)
+![Image text](IMG/%E7%99%BB%E5%BD%95.png)
 
 ansible主机：
 
-![Image text](https://github.com/987334176/Autocmdb/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C.png)
+![Image text](IMG/%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C.png)
 
 主机详情：
 
-![Image text](https://github.com/987334176/Autocmdb/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E8%81%8A%E5%A4%A9.png)
+![Image text](IMG/%E8%81%8A%E5%A4%A9.png)
 
 
 ## 运行方式
